@@ -1,4 +1,4 @@
-# Designing Data Intensive Application in Elixir Keynote-Resources
+# Designing Data Intensive Applications in Elixir Keynote-Resources
 
 * Designing Data Insive applications by Martin Kleppmann: https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321 
  // Chapter 12 puts the best ideas together for a recommended architecture that the keynote was inspired from
